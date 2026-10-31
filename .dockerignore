@@ -1,0 +1,12 @@
+*
+!app.py
+!requirements.txt
+!housing_dss/
+!housing_dss/**
+!data/
+!data/cian_moscow.csv
+!.streamlit/
+!.streamlit/config.toml
+**/__pycache__/
+**/*.py[cod]
+**/.DS_Store

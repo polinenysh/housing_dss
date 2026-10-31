@@ -1,0 +1,9 @@
+name: housing-dss
+
+services:
+  app:
+    build:
+      context: .
+    image: housing-dss:local
+    ports:
+      - "127.0.0.1:8501:8501"
